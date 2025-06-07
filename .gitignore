@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Java / IDE files
+.idea/
+*.iml
+out/
+build/
+dist/
+target/
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

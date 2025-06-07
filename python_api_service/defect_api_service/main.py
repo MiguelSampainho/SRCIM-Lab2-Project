@@ -5,7 +5,7 @@ from ultralytics import YOLO
 from PIL import Image # For opening and manipulating images
 
 # --- Configuration ---
-MODEL_PATH = "best.pt"
+MODEL_PATH = "models/best.pt"
 
 # --- Initialize FastAPI App ---
 app = FastAPI(title="Defect Detection API")
